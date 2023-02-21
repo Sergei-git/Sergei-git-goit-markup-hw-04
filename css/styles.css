@@ -54,6 +54,7 @@ img {
 /* HEADER */
 .link {
   text-decoration: none;
+  display: block;
 }
 
 .list {
@@ -395,9 +396,6 @@ img {
   background-color: var(--activ-text-color);
 }
 
-.link {
-}
-
 .customers {
   padding-top: 130px;
   padding-bottom: 120px;
@@ -430,8 +428,6 @@ img {
   justify-content: center;
 }
 
-.link {
-}
 .customers-icon {
   fill: #8e8f99;
 }
